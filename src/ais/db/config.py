@@ -1,0 +1,1 @@
+DB_PATH = "db/ais_data.db"

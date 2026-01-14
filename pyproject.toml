@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "ais-player"
+version = "0.1.0"
+description = "Exploring worlwide vessels"
+authors = [
+    { name = "Raphael Hamez" }
+]
+dependencies = [
+]
+
+[tool.setuptools.packages]
+find = { where = ["src"] }
