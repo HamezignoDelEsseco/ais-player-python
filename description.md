@@ -1,3 +1,9 @@
+# Objective
+The goal is to build a dummy UI that allows us to EFFICIENTLY scroll through AIS data
+
+# Downloading the 2024 AIS data (116Gb)
+
+
 Create venv
 ```powershell
 # mkdir .venv
